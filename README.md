@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KanhaDev
+- 👋 Hi, I’m Kanhaiya Verma
 - 👀 I’m interested in full stack web development using MERN Stack
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
