@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kanhaiya Verma
-- 👀 I’m Automation Tester with over 2 years of experience in designing and executing automated testing frameworks to enhance software quality and reliability
+- 👀 I’m Automation Tester with over 2+ years of experience in designing and executing automated testing frameworks to enhance software quality and reliability
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kanhaiyaverma7255@gmail.com
