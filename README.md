@@ -1,106 +1,49 @@
 👋 Hi, I'm Kanhaiya Verma
 QA Automation Engineer | SDET | API & UI Automation | CI/CD | Mobile Automation
 
-I’m a passionate Automation Test Engineer with 3 years of experience building scalable, maintainable, and CI/CD-ready test automation frameworks for Web, Mobile, and API applications.
-I focus on delivering high-quality automation, improving regression efficiency, and solving real-world engineering problems through clean code and structured frameworks.
+I design and build reliable test automation solutions for Web, Mobile, and API platforms. My focus is on writing clean, maintainable code and creating automation frameworks that scale.
 
-🚀 About Me
+Skills:
 
-🔍 3 years of experience in UI Automation, API Automation, and Mobile Testing
+Languages: Java, TypeScript, JavaScript, Python
+Automation: Selenium WebDriver, Appium, Robot Framework, WebdriverIO
+API Testing: REST Assured, Postman, Mocha + Chai
+Frameworks: TestNG, JUnit, Cucumber (BDD), POM, Hybrid
+CI/CD: GitHub Actions, Jenkins, Azure DevOps
+Tools: Maven, Git, Allure Reports, BrowserStack
+Concepts: API Chaining, Data Validation, Component Testing, E2E Automation
 
-💻 Strong in Java, TypeScript, Selenium WebDriver, Appium, REST Assured
+Experience Highlights
 
-🧪 Designed automation frameworks from scratch (POM, BDD, Hybrid)
+Built and maintained automation frameworks for Salesforce web & mobile applications using Robot Framework, Selenium, and Appium.
 
-🔗 Experienced in API chaining, schema validation, authentication flows
+Automated 550+ UI & API test cases integrated with CI/CD pipelines.
 
-📱 Hands-on with real device testing via BrowserStack & Appium
+Developed hybrid automation framework for Finacle Core Banking using WebdriverIO + TypeScript.
 
-⚙️ CI/CD experience with GitHub Actions, Jenkins, Azure DevOps
+Performed API chaining, schema validation, and backend data checks for loan and payment services.
 
-📊 Strong exposure to banking (Finacle), Salesforce, CMS domains
+Improved regression execution efficiency by 60% through scalable automation solutions.
 
-🧠 Always learning, always improving — focused on SDET-level growth
+Achievements
 
-🛠️ Tech Stack & Tools
-Languages
+Infosys Insta Award – Efficient, scalable automation asset
 
-Java • JavaScript • TypeScript • Python
+IQE Unit RISE Award – Team excellence in delivery and quality
 
-Automation Tools
-
-Selenium WebDriver • Appium • Robot Framework • WebdriverIO
-
-REST Assured • Postman • Mocha • Chai
-
-Frameworks & Practices
-
-TestNG • JUnit • Cucumber (BDD) • POM
-
-Hybrid Frameworks • API Automation • Data-Driven Testing
-
-DevOps & CI/CD
-
-GitHub Actions • Jenkins • Azure DevOps
-
-Maven • Git • Allure Reports • BrowserStack
-
-Databases
-
-SQL (Joins, CRUD, Validations)
-
-Other Skills
-
-STLC • SDLC • Defect Management (JIRA) • Agile Scrum
-
-Component Testing • End-to-End Flow Testing
-
-📂 Highlighted Projects
-🔹 🚀 UI + Mobile Automation | Salesforce
-
-Automated 550+ test cases using Robot Framework, Selenium & Appium
-
-Integrated workflows with GitHub Actions & Azure DevOps
-
-Performed cross-platform real device testing using BrowserStack
-
-🔹 💳 Core Banking Automation (Finacle)
-
-Built UI + API hybrid automation framework using WebdriverIO + TypeScript
-
-Automated loan & payment modules with API chaining & schema validation
-
-Implemented Allure reporting, reducing debugging time by 40%
-
-🏆 Achievements
-
-🥇 Infosys Insta Award for designing efficient and scalable automation assets
-
-🏅 IQE Unit RISE Award (Team Award) for project excellence and delivery quality
-
-Automated workflows that reduced manual regression effort by 60%
-
-📈 What I'm Learning Now
+Current Focus
 
 Playwright
 
-Advanced API automation (Microservices, Contract Testing)
+Advanced API automation (contract testing, microservices testing)
 
-Docker for automation
+Docker for automation environments
 
-Performance Testing with JMeter / K6
+Contact
 
-🤝 Let’s Connect
+📧 kanhaiyaverma7255@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/kanhaiya-verma-65b19a224/
-
-📧 Email: kanhaiyaverma7255@gmail.com
-
-
-✨ My GitHub Motto
-
-"Automate smart, not just fast — scalable frameworks are built on clean code, discipline, and curiosity."
-
+🔗 LinkedIn: [Add your link]
 
 <!---
 KanhaDev/KanhaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
