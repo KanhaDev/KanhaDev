@@ -43,7 +43,7 @@ Contact
 
 📧 kanhaiyaverma7255@gmail.com
 
-🔗 LinkedIn: [Add your link]
+🔗 LinkedIn: https://www.linkedin.com/in/kanhaiya-verma-65b19a224
 
 <!---
 KanhaDev/KanhaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
